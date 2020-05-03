@@ -1,4 +1,16 @@
-# Language Models to study cognitive language understaning
+## Language Models to study cognitive language understanding
+
+
+### Use pretrained ParlAI
+
+```
+git clone https://github.com/facebookresearch/ParlAI.git ~/ParlAI
+cd ~/ParlAI; python setup.py develop
+python projects/wizard_of_wikipedia/scripts/interactive_retrieval_model.py
+```
+
+
+### What is this?
 
 - What is the elevator pitch of your idea?
     - We want to study learning in an individual from observing two person communication.
