@@ -15,6 +15,14 @@ cd ~/ParlAI; python setup.py develop
 python projects/wizard_of_wikipedia/scripts/interactive_retrieval_model.py
 ```
 
+### Summarization
+
+```
+pip install transformers
+python summary.py
+```
+
+
 
 ### What is this?
 
