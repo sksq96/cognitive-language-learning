@@ -1,6 +1,12 @@
 ## Language Models to study cognitive language understanding
 
 
+### Use Model-Model communication
+
+```
+python interactive.py -t blended_skill_talk -mf zoo:blender/blender_90M/model
+```
+
 ### Use pretrained ParlAI
 
 ```
